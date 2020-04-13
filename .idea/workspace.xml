@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="feced440-3ff3-4b15-b984-c4c1001f1fea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/download_Sciensano-Covid19-data.py" beforeDir="false" afterPath="$PROJECT_DIR$/download_Sciensano-Covid19-data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DE" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,10 +45,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585910257400">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586708272597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585910257400" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586708272597" />
     <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586707940436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -57,5 +57,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="586" y="65" width="747" height="909" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585862319112" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1586708213679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586708213679" />
   </component>
 </project>
